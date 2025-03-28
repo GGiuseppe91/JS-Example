@@ -1,2 +1,2 @@
-# test
-test
+# JS Example
+JS example with unit test.
